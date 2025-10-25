@@ -1,6 +1,6 @@
 # Experian-Interview-Task
 
-A Python application for processing and analyzing listing data with automation capabilities.
+A Python application for validating listings.
 
 ## Prerequisites
 
