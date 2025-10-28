@@ -1,4 +1,3 @@
-# llm_functions.py — unchanged API surface, but here's a robust version you can use
 import os
 from dotenv import load_dotenv
 from google import genai
@@ -55,3 +54,4 @@ async def run_ai_model_full(system_prompt, user_prompt):
     except Exception as e:
         print(f"Error in run_ai_model: {e}")
         return None
+
